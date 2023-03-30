@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node": "^19.8.1"
+  },
+  "name": "entrega-final",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArianaLagoria55/entregafinal"
+  },
+  "author": "arianalagoria@hotmail.com",
+  "license": "ISC"
+}
